@@ -10,20 +10,6 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Gabriel Mensi from Rosario, Argentina.<br><br>- 🔭 I’m working as Frontend Developer at <a href="https://egodesign.io/" target="_blank">AgenciaEgo</a><br>- 📚 I'm currently studying Information Systems Engineering at <a href="https://www.frro.utn.edu.ar/carr_ing_sistemas.php" target="_blank">UTN</a>.<br>- 👨‍💻 All of my projects are available at <a href="https://gabrielmensi.vercel.app/" target="_blank"> Portfolio</a><br>- 📫 You can contact me through <a href="https://www.linkedin.com/in/gabriel-mensi/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a> or by sending me an email at gabriel.mensi7@yahoo.com.ar<br>- 📄 Know about my experiences <a href="rxresu.me/es/gabriel.mensi7/frontend" target="_blank">CV</a></p>
-
-###
-
 <h3 align="left">🛠 Languages</h3>
 
 ###
