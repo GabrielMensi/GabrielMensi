@@ -30,36 +30,37 @@ I'm a frontend developer focused on building performant, scalable, and user-cent
 ### 🛠 Tech Stack
 
 **Languages:**  
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) 
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) 
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" />
 
 **Frameworks & Libraries:**  
-![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) 
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) 
-![Redux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg) 
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=Zustand&logoColor=white)
-![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg)  
-![Wagtail](https://img.shields.io/badge/-Wagtail-43B1B0?style=flat&logo=wagtail&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" />
 
-**Testing & Dev Tools:**  
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white) 
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)  
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
+**Tools & Testing:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" />
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=Zustand&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
 
 ---
 
 ### 🧩 Featured Projects
 
 - **[MittaCL](https://mitta.cl/)** and **[MittaGO](https://mittago.cl/)**  
-  Car rental platforms built with Next.js (SSG/SSR), Redux Toolkit and integrated with Wagtail CMS.
+  Car rental platforms built with Next.js (SSG/SSR), Redux Toolkit, and Wagtail CMS integration.
 
 - **[Farellones Automotriz](https://farellonesautomotriz.cl/)**  
-  E-commerce and car auction site built with Next.js and Zustand.
+  E-commerce and car auction platform using Next.js with Zustand for state management.
 
 - **Other clients:**  
   [Veritran](https://www.veritran.com/) • [Toyota Fleets](https://toyotaflotas.cl/) • [Sullair](https://www.sullairargentina.com) • [MAP](https://www.maplatam.com) • [EGO Design](https://egodesign.io)
@@ -79,7 +80,7 @@ I'm a frontend developer focused on building performant, scalable, and user-cent
 
 - B.S. in Information Systems Engineering – UTN Rosario (2021–2023)
 - Certified in: Next.js, Advanced Django, Python (Platzi) • JavaScript & CSS (HackerRank)
-- English: B1/B2 intermediate level
+- English level: Intermediate (B1/B2)
 
 ---
 
