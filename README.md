@@ -5,7 +5,7 @@
 <h1 align="center">Hi there! I'm Gabriel Mensi 👋</h1>
 
 <div align="center">
-  <strong>Frontend Developer | Passionate about technology, UI/UX, and continuous improvement</strong>  
+  <strong>Frontend Developer | Passionate about technology, development and continuous improvement</strong>  
 </div>
 
 <div align="center">
@@ -30,27 +30,27 @@ I'm a frontend developer focused on building performant, scalable, and user-cent
 ### 🛠 Tech Stack
 
 **Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin-right:10px;" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin-right:10px;" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin-right:10px;" /> 
 
 **Frameworks & Libraries:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" style="margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" style="margin-right:10px;" />
 
 **Tools & Testing:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="25" />
-<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" />
-<img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=Zustand&logoColor=white" />
-<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=Zustand&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" style="margin-right:10px;" />
 
 ---
 
@@ -67,6 +67,15 @@ I'm a frontend developer focused on building performant, scalable, and user-cent
 
 ---
 
+### 🌍 Open Source Contributions
+
+- 🧠 [Resume Matcher](https://github.com/srbhr/Resume-Matcher)  
+  Contributing to an AI-powered tool that helps match resumes with job descriptions.  
+  My contributions include schema improvements, bug fixes, issue triaging and active feature discussions.  
+  → Learn more at: [resumematcher.fyi](https://resumematcher.fyi/about)
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -78,14 +87,13 @@ I'm a frontend developer focused on building performant, scalable, and user-cent
 
 ### 🎓 Education & Certifications
 
-- B.S. in Information Systems Engineering – UTN Rosario (2021–2023)
 - Certified in: Next.js, Advanced Django, Python (Platzi) • JavaScript & CSS (HackerRank)
 - English level: Intermediate (B1/B2)
 
 ---
 
 ### 🤝 Let’s Connect
-
+<img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" height="25" /> **[LinkedIn](https://www.linkedin.com/in/gabriel-mensi/)** <br>
 📫 **gabriel.mensi7@gmail.com**  
 🌎 Based in Rosario, Argentina — open to remote or hybrid opportunities worldwide.
 
