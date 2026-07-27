@@ -21,9 +21,15 @@
 
 ### 🚀 About Me
 
-I'm a frontend developer focused on building performant, scalable, and user-centered web experiences. I specialize in **Next.js**, **React**, and **Django/Wagtail CMS**, and thrive in collaborative, agile environments.
+I'm a frontend developer who's spent the last 4 years as the lead frontend engineer on close to
+20 production projects for clients across automotive, fintech, industrial, and wealth management.
+I specialize in **Next.js**, **React**, and decoupled **Django/Wagtail CMS** architectures — I
+co-led my agency's migration from monolithic Django templates to this stack, and it's now the
+standard for every new project we ship.
 
-💡 I love turning ideas into intuitive digital products and constantly push myself to learn and improve.
+💡 I like building the boring-sounding infrastructure that makes everything else fast to build on
+top of: normalization layers, reusable component systems, and CMS integrations that let
+non-technical teams manage full pages without touching code.
 
 ---
 
@@ -56,14 +62,27 @@ I'm a frontend developer focused on building performant, scalable, and user-cent
 
 ### 🧩 Featured Projects
 
-- **[MittaCL](https://mitta.cl/)** and **[MittaGO](https://mittago.cl/)**  
-  Car rental platforms built with Next.js (SSG/SSR), Redux Toolkit, and Wagtail CMS integration.
+- **[Mitta.cl](https://mitta.cl/)** and **[MittaGO](https://mittago.cl/)**  
+  Car rental platforms built with Next.js (SSG/SSR), Redux Toolkit, and Wagtail CMS integration —
+  Mitta.cl was the pilot project for our agency's whole decoupled-frontend architecture.
 
-- **[Farellones Automotriz](https://farellonesautomotriz.cl/)**  
-  E-commerce and car auction platform using Next.js with Zustand for state management.
+- **[Farellones Automotriz](https://farellonesautomotriz.cl/)** and **[Farellones Profesionales](https://farellonesprofesionales.cl/)**  
+  Automotive marketplace platform for the public and B2B/professional channels, Next.js with
+  Zustand for state management.
 
-- **Other clients:**  
-  [Veritran](https://www.veritran.com/) • [Toyota Fleets](https://toyotaflotas.cl/) • [Sullair](https://www.sullairargentina.com) • [MAP](https://www.maplatam.com) • [EGO Design](https://egodesign.io)
+- **[Redpoints](https://redpoints.cl/)**  
+  Mitta's loyalty/rewards platform — points redemption, prize catalog, Cloudflare Turnstile
+  CAPTCHA.
+
+- **[MAF Fondos Perú](https://www.fondoscolectivosmaf.com/)**  
+  Scheduled vehicle-savings product ("Toyota Ahorro Flex") for the Peruvian market.
+
+- **[Mills](https://mills.capital/)**  
+  Bilingual (ES/EN) site for a wealth-management firm with international presence (Argentina,
+  Miami, Spain, the Bahamas).
+
+- **Other client work:**  
+  [Veritran](https://www.veritran.com/) • [Toyota Flotas](https://toyotaflotas.cl/) • [Toyota Chile](https://www.toyota.cl/) • [Lexus Chile](https://lexus.cl/) • [Sullair Argentina](https://www.sullairargentina.com/) • [Aramco-branded fuel stations](https://www.aramcoestaciones.cl/) • [CSA](https://csalatam.com/) • [Autonauta](https://autonauta.cl/) • [MAF Perú](https://mafperu.com/) • [MAP](https://www.maplatam.com/) • [EGO Design](https://egodesign.io)
 
 ---
 
@@ -92,7 +111,7 @@ I'm a frontend developer focused on building performant, scalable, and user-cent
 
 ---
 
-### 🤝 Let’s Connect
+### 🤝 Let's Connect
 <img src="https://icon.icepanel.io/Technology/svg/LinkedIn.svg" height="25" /> **[LinkedIn](https://www.linkedin.com/in/gabriel-mensi/)** <br>
 📫 **gabriel.mensi7@gmail.com**  
 🌎 Based in Rosario, Argentina — open to remote or hybrid opportunities worldwide.
