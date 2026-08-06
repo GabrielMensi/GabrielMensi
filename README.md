@@ -63,8 +63,7 @@ non-technical teams manage full pages without touching code.
 ### 🧩 Featured Projects
 
 - **[Mitta.cl](https://mitta.cl/)** and **[MittaGO](https://mittago.cl/)**  
-  Car rental platforms built with Next.js (SSG/SSR), Redux Toolkit, and Wagtail CMS integration —
-  Mitta.cl was the pilot project for our agency's whole decoupled-frontend architecture.
+  Car rental platforms built with Next.js (SSG/SSR), Redux Toolkit, and Wagtail CMS integration.
 
 - **[Farellones Automotriz](https://farellonesautomotriz.cl/)** and **[Farellones Profesionales](https://farellonesprofesionales.cl/)**  
   Automotive marketplace platform for the public and B2B/professional channels, Next.js with
@@ -87,6 +86,16 @@ non-technical teams manage full pages without touching code.
 ---
 
 ### 🌍 Open Source Contributions
+
+- 🇦🇷 [ai-job-search](https://github.com/GabrielMensi/ai-job-search) — Argentina/LatAm fork (maintainer)  
+  Adapted an AI-powered job-search framework (originally built for the Danish market) for
+  Argentina/LatAm: 10 new job-portal integrations (GetOnBoard, Computrabajo, Bumeran, Zonajobs,
+  Empleos IT, and others), each a zero-dependency CLI with its own test suite.  
+  Also designed and built a **dynamic, per-user language-eligibility gate** — replacing a
+  hardcoded language assumption with a general rule driven by the candidate's own declared
+  languages and proficiency levels — and proposed it back to the original project as a
+  market-agnostic feature. It was reviewed and **merged upstream**.  
+  → Original project: [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
 - 🧠 [Resume Matcher](https://github.com/srbhr/Resume-Matcher)  
   Contributing to an AI-powered tool that helps match resumes with job descriptions.  
