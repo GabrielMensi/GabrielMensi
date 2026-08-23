@@ -91,10 +91,12 @@ non-technical teams manage full pages without touching code.
   Adapted an AI-powered job-search framework (originally built for the Danish market) for
   Argentina/LatAm: 10 new job-portal integrations (GetOnBoard, Computrabajo, Bumeran, Zonajobs,
   Empleos IT, and others), each a zero-dependency CLI with its own test suite.  
-  Also designed and built a **dynamic, per-user language-eligibility gate** — replacing a
-  hardcoded language assumption with a general rule driven by the candidate's own declared
-  languages and proficiency levels — and proposed it back to the original project as a
-  market-agnostic feature. It was reviewed and **merged upstream**.  
+  Also proposed and got **merged upstream** two market-agnostic features:
+  - A **dynamic, per-user language-eligibility gate** — replacing a hardcoded language
+    assumption with a general rule driven by the candidate's own declared languages and
+    proficiency levels.
+  - A **company-research cache** shared between the CV/cover-letter drafting workflow and
+    the interview-prep workflow — removes duplicate research passes on the same company.  
   → Original project: [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search)
 
 - 🧠 [Resume Matcher](https://github.com/srbhr/Resume-Matcher)  
