@@ -54,7 +54,7 @@ before anything gets pushed.
   library from Figma (15 CMS blocks, 20+ UI components, 53 Storybook stories across 3 themes in
   light and dark), integrated with the backend through versioned, CI-checked data contracts
   (TypeScript → JSON Schema) proposed by the frontend.
-- **[Sullair](https://www.sullairargentina.com/) logistics portal (shipped):** multi-actor freight
+- **Sullair logistics portal (internal client app, shipped):** multi-actor freight
   flows (quote requests, provider quoting, award, trip tracking and documentation) on Next.js 16,
   Prisma and PostgreSQL in a pnpm + Turbo monorepo, plus the full testing strategy (unit,
   real-Postgres integration, API contracts, components and Playwright E2E).
@@ -67,37 +67,39 @@ before anything gets pushed.
 ### 🛠 Tech Stack
 
 **Languages:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" style="margin-right:10px;" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" style="margin-right:10px;" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" style="margin-right:10px;" /> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" style="margin-right:10px;" />
 
 **Frameworks & Libraries:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Zustand-443E38?style=flat" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Wagtail-43B1B0?style=flat&logo=wagtail&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" style="margin-right:10px;" />
 
 **Tools & Testing:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/pnpm-F69220?style=flat&logo=pnpm&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" style="margin-right:10px;" />
-<img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=Zustand&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" style="margin-right:10px;" />
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat" style="margin-right:10px;" />
 
 **Data & Infra:**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" style="margin-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white" style="margin-right:10px;" />
 
 **AI:**  
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" style="margin-right:10px;" />
