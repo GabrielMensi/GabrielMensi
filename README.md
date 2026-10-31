@@ -5,12 +5,15 @@
 <h1 align="center">Hi there! I'm Gabriel Mensi 👋</h1>
 
 <div align="center">
-  <strong>Frontend Developer | Passionate about technology, development and continuous improvement</strong>  
+  <strong>Software Engineer | Next.js, React & Astro | Building with AI: LLM apps, agents and engineering standards</strong>  
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-mensi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://github.com/GabrielMensi/english-companion" target="_blank">
+    <img src="https://img.shields.io/badge/Featured-English%20Companion-8A2BE2?style=flat&logo=github" />
   </a>
   <a href="mailto:gabriel.mensi7@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white" />
@@ -21,15 +24,43 @@
 
 ### 🚀 About Me
 
-I'm a frontend developer who's spent the last 4 years as the lead frontend engineer on close to
-20 production projects for clients across automotive, fintech, industrial, and wealth management.
-I specialize in **Next.js**, **React**, and decoupled **Django/Wagtail CMS** architectures — I
-co-led my agency's migration from monolithic Django templates to this stack, and it's now the
-standard for every new project we ship.
+I'm a software engineer who has spent the last 4 years building production web apps (Next.js,
+React, TypeScript, and lately Astro) for close to 20 clients across automotive, fintech,
+industrial, and wealth management. I co-led my agency's move from monolithic Django templates
+to decoupled Next.js + headless Wagtail, and it's still the standard for every new project.
 
-💡 I like building the boring-sounding infrastructure that makes everything else fast to build on
-top of: normalization layers, reusable component systems, and CMS integrations that let
-non-technical teams manage full pages without touching code.
+💡 I like building the things that make everything else faster: project starters, reusable
+component systems, contracts between teams, and AI workflows that a whole team can reuse.
+
+🤖 I use AI heavily but with guardrails: Claude Code agents in isolated git worktrees,
+orchestrated with [Orca](https://github.com/stablyai/orca), every change as a reviewed PR, and hooks running lint, types and tests
+before anything gets pushed.
+
+---
+
+### 🔨 What I've Been Building Lately
+
+- **Frontend Starter (agency-wide, proposed and built by me):** the standard starting point for
+  every new frontend project. Astro and Next.js 16 templates with CMS client, i18n, SEO,
+  Storybook, Sentry, testing and CI already wired, 16 Architecture Decision Records, a
+  zero-dependency generator CLI run straight from GitHub, CI that builds and checks every template
+  variant, and an `update` command that merges starter changes into existing projects. Generated
+  projects ship AI-ready, with `CLAUDE.md`/`AGENTS.md` and Claude Code skills.
+- **Front–back integration process:** how the frontend starter and the Django/Wagtail backend
+  starter evolve together. A shared GitHub Project where every contract change (endpoints, blocks,
+  auth, preview, revalidation, locales) has one source-of-truth issue and a sub-issue per repo,
+  with the same rules in both repos' `CLAUDE.md` so AI agents on either side keep it up to date.
+- **Institutional site for a financial group (Astro, pre-launch):** a near-complete component
+  library from Figma (15 CMS blocks, 20+ UI components, 53 Storybook stories across 3 themes in
+  light and dark), integrated with the backend through versioned, CI-checked data contracts
+  (TypeScript → JSON Schema) proposed by the frontend.
+- **[Sullair](https://www.sullairargentina.com/) logistics portal (shipped):** multi-actor freight
+  flows (quote requests, provider quoting, award, trip tracking and documentation) on Next.js 16,
+  Prisma and PostgreSQL in a pnpm + Turbo monorepo, plus the full testing strategy (unit,
+  real-Postgres integration, API contracts, components and Playwright E2E).
+- **AI agent workflows:** a production error cleanup across 5 Next.js apps where Claude Code
+  subagents diagnosed 11 bugs in isolated worktrees (from ~920 affected users down to one open
+  issue), packaged as a reusable skill.
 
 ---
 
@@ -45,6 +76,8 @@ non-technical teams manage full pages without touching code.
 **Frameworks & Libraries:**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" style="margin-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" style="margin-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" style="margin-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" style="margin-right:10px;" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" style="margin-right:10px;" />
@@ -56,11 +89,40 @@ non-technical teams manage full pages without touching code.
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=storybook&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/Zustand-000000?style=flat&logo=Zustand&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat&logo=vitest&logoColor=white" style="margin-right:10px;" />
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white" style="margin-right:10px;" />
+
+**Data & Infra:**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white" style="margin-right:10px;" />
+
+**AI:**  
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat&logo=vercel&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Groq-F55036?style=flat" style="margin-right:10px;" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white" style="margin-right:10px;" />
 
 ---
 
 ### 🧩 Featured Projects
+
+- 🗣️ **[English Companion](https://github.com/GabrielMensi/english-companion)** (personal, AI)  
+  An app to practice written and spoken English with AI, built for my own daily use. It corrects
+  what I write or dictate, classifies every error by topic and severity, and builds exercises,
+  spaced-repetition flashcards and a progress dashboard from my own mistakes.
+  - LLMs via API (Gemini, Groq) with a configurable model chain, automatic fallback and
+    schema-validated structured outputs (Zod); Whisper dictation and in-browser text-to-speech.
+  - Its own evaluation harnesses pick models with data (correction accuracy and latency per
+    model; best: 96% in ~2 s). Local LLMs via Ollama were tried and dropped when the evals showed
+    the APIs were more accurate and faster.
+  - Next.js, TypeScript, Vercel AI SDK, SQLite + Drizzle.
+
+**Client work:**
+
 
 - **[Mitta.cl](https://mitta.cl/)** and **[MittaGO](https://mittago.cl/)**  
   Car rental platforms built with Next.js (SSG/SSR), Redux Toolkit, and Wagtail CMS integration.
@@ -80,7 +142,7 @@ non-technical teams manage full pages without touching code.
   Bilingual (ES/EN) site for a wealth-management firm with international presence (Argentina,
   Miami, Spain, the Bahamas).
 
-- **Other client work:**  
+- **More client work:**  
   [Veritran](https://www.veritran.com/) • [Toyota Flotas](https://toyotaflotas.cl/) • [Toyota Chile](https://www.toyota.cl/) • [Lexus Chile](https://lexus.cl/) • [Sullair Argentina](https://www.sullairargentina.com/) • [Aramco-branded fuel stations](https://www.aramcoestaciones.cl/) • [CSA](https://csalatam.com/) • [Autonauta](https://autonauta.cl/) • [MAF Perú](https://mafperu.com/) • [MAP](https://www.maplatam.com/) • [EGO Design](https://egodesign.io)
 
 ---
